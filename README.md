@@ -4,7 +4,7 @@ Programmino in assembly per MOS6510 (derivato del 6502) per disegnare il logo LI
 
 Il programma definisce una matrice "bitmap" 9x10 in cui i pixel sono rappresentati da bit 1 (pixel pieno) e 0 (pixel vuoto).
 
-Ogni pixel viene poi up-scalato in un blocco di NxN pixel in modo programmatico..
+Ogni pixel viene poi up-scalato in un blocco di NxN pixel in modo programmatico.
 
 Le costanti all'inizio del listato, come offset, dimensione blocco (NxN), dimensione matrice di origine e colori possono essere modificati.
 
