@@ -12,6 +12,14 @@ La matrice di origine può essere espansa al massimo a 16x16. I puntatori sono i
 
 Il listato è commentato in maniera verbosa in italiano.
 
+
+Esempio di run utilizzando l'emulatore [c64-kitty](https://github.com/antirez/c64-kitty).
+
+![](c64_1.png)
+![](c64_2.png)
+
+
 Have fun,
+
 sid
 
