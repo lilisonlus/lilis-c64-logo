@@ -15,8 +15,8 @@ Il listato è commentato in maniera verbosa in italiano.
 
 Esempio di run utilizzando l'emulatore [c64-kitty](https://github.com/antirez/c64-kitty).
 
-![](c64_1.png)
-![](c64_2.png)
+![](img/c64_1.png)
+![](img/c64_2.png)
 
 
 Have fun,
